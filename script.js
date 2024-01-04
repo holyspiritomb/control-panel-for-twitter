@@ -54,7 +54,7 @@ const config = {
   hideBookmarkButton: false,
   hideBookmarkMetrics: true,
   hideBookmarksNav: false,
-  hideCommunitiesNav: false,
+  hideCommunitiesNav: true,
   hideConnectNav: true,
   hideExplorePageContents: true,
   hideFollowingMetrics: true,
